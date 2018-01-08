@@ -11,7 +11,7 @@ shinsha = ['#FE8585', '#FA5A66', '#ED2C2D', '#AD1D1D', '#F83030', '#FF8E9C',
            '#FE8575', '#FA5A66', '#ED3C2D', '#AD1F14', '#F84040', '#FF9EA6',
            '#FEF5F8']
 antaku = ['#C0C0C0', '#C7CBDE', '#DBE3E2', '#D1D7CC', '#5E6377',
-          '#DDDDDD', '#C9CDDF', '#CBD3D2', '#C1C7BC', '#7E8397',
+          '#DDDDDD', '#C9CDE0', '#CBD3D2', '#C1C7BC', '#7E8397',
           '#FFFFFF']
 
 colors = {'fasi': fasi, 'shinsha': shinsha, 'antaku': antaku}
