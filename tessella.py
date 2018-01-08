@@ -10,7 +10,7 @@ fasi = ['#34F3CD', '#34F3DD', '#5BF993', '#10D5C2', '#09DF69', '#11D06C', '#1CB7
 shinsha = ['#FE8585', '#FA5A66', '#ED2C2D', '#AD1D1D', '#F83030', '#FF8E9C',
            '#FE8575', '#FA5A66', '#ED3C2D', '#AD1F14', '#F84040', '#FF9EA6',
            '#FEF5F8']
-antaku = ['#C0C0C0', '#C7CBDE', '#DBE3E2', '#D1D7CC', '#5E6377',
+antaku = ['#C0C0C0', '#C8CBDE', '#DBE3E2', '#D1D7CC', '#5E6377',
           '#DDDDDD', '#C9CDE0', '#CBD3D2', '#C1C7BC', '#7E8397',
           '#FFFFFF']
 
