@@ -13,10 +13,13 @@ shinsha = ['#FE8585', '#FA5A66', '#ED2C2D', '#AD1D1D', '#F83030', '#FF8E9C',
 antaku = ['#C0C0C0', '#C8CBDE', '#DBE3E2', '#D1D7CC', '#5E6377',
           '#DDDDDD', '#C9CDE0', '#CBD3D2', '#C1C7BC', '#7E8397',
           '#FFFFFF']
+diamond = ['#FF0000', '#FBFB3C', '#13EC18', '#0E02FE','#6803C2',
+          '#DDDDDD', '#C9CDE0', '#CBD3D2', '#C1C7BC', '#7E8397',
+          '#FFFFFF']
 
-colors = {'fasi': fasi, 'shinsha': shinsha, 'antaku': antaku}
+colors = {'fasi': fasi, 'shinsha': shinsha, 'antaku': antaku, 'diamond': diamond}
 
-using_color = 'antaku'
+using_color = 'diamond'
 
 dwg = svgwrite.Drawing('%s.svg' % using_color)
 
@@ -27,7 +30,7 @@ step_max = 43
 triangle_leftest = 13
 uni_left = True
 have_gradient = True
-gradient_cnt = 10
+gradient_cnt = 3
 
 
 def get_color():
